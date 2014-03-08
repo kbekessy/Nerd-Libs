@@ -8,7 +8,7 @@ Project includes
 
 + Exmaples
 + A "Start" version of the app that is an empty shell to build upon
-+ A "Finished version that is the complete working app 
++ A "Finished" version that is the complete working app 
 
 
 What you'll need
