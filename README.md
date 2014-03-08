@@ -13,7 +13,7 @@ Project includes
 
 What you'll need
 ---
-+ Plain test editor
++ Plain text editor
 + Local server such as Node, MAMP, or Grunt
 + Set up free account on [Firebase](https://www.firebase.com/)
 
